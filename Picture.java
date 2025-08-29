@@ -80,13 +80,6 @@ public class Picture
         sun.moveVertical(10);
         sun.moveVertical(10);
         sun.moveVertical(10);
-        sun.moveVertical(10);
-        sun.moveVertical(10);
-        sun.moveVertical(10);
-        sun.moveVertical(10);
-        sun.moveVertical(10);
-        sun.moveVertical(10);
-        sun.moveVertical(10);
         drawn = true;
     }
 
