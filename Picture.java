@@ -68,8 +68,8 @@ public class Picture
         drawn = true;
     } public void person () {
         person.makeVisible();
-        person.moveHorizontal (-50);
-        person.slowMoveHorizontal (-50);
+        person.moveHorizontal (-70);
+        person.slowMoveHorizontal (-70);
         
         drawn = true;
         
