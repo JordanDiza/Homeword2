@@ -58,6 +58,10 @@ public class Picture
             sun.makeVisible();
             drawn = true;
         }
+    } public void sunset () {
+        sun.slowMoveVertical(300);
+        sun.moveVertical(-300);
+        drawn = true;
     }
 
     /**
