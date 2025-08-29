@@ -1,19 +1,13 @@
-Project 'house'
-Authors: Michael Kölling and David J. Barnes
+Part IV
+I will send the picture of the sun being blue and adding 2 suns
 
-This project is part of the material for the book
+How to add 2 suns? Changed the sun1 color to blue by doing sun1.changeColor("blue");
+Had to put private Circle sun2; after private Circle sun;
+Had to add sun2.+ the method Ex. sun2.moveUp(); etc..
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-   Pearson Education
-
-It is discussed in chapter 1.
-    
-This is a very simple project to demonstrate some characteristics of
-objects.
-
-This project is often used after studying the "shapes" project. It
-adds a class to those ones in "shapes". That class (named "Picture")
-uses the shapes to draw a picture. It can be used to experiment with 
-modifying source code.
+For the sunset I need to do this,
+ } public void sunset() {
+        sun.slowMoveVertical(300);
+        sun.moveVertical(-300);
+        drawn = true ;
+    }
