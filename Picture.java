@@ -61,15 +61,55 @@ public class Picture
             drawn = true;
         }
     } public void sunset () {
-        sun.slowMoveVertical(300);
-        sun.moveVertical(-300);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        sun.moveVertical(5);
+        
+
         
         
         drawn = true;
     } public void person () {
         person.makeVisible();
-        person.moveHorizontal (-70);
-        person.slowMoveHorizontal (-70);
+        person.moveHorizontal (-100);
+        person.slowMoveHorizontal (-100);
         
         drawn = true;
         
