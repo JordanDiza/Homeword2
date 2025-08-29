@@ -11,3 +11,5 @@ For the sunset I need to do this,
         sun.moveVertical(-300);
         drawn = true ;
     }
+
+#19 I had to put sun.moveVertivaly (10); like 8 times     
