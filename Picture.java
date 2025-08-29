@@ -59,8 +59,34 @@ public class Picture
             drawn = true;
         }
     } public void sunset () {
-        sun.slowMoveVertical(300);
-        sun.moveVertical(-300);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
+        sun.moveVertical(10);
         drawn = true;
     }
 
